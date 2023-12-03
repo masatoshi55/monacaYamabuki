@@ -1,7 +1,7 @@
 <template>
   <v-ons-page>
     <p class="wel">
-      新宿山吹高校へようこそ！
+      新宿山吹高校へようこそ！!
     </p>
     <div class="con">
         <v-ons-button class="button-margin" style="margin: 25% 7%">
