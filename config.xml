@@ -3,7 +3,7 @@
   <name>vue-tabbar</name>
   <description>Made with Monaca (http://monaca.mobi)</description>
   <author/>
-  <content src="index.html"/>
+  <content src="Home.vue"/>
   <preference name="loglevel" value="DEBUG"/>
   <preference name="AndroidLaunchMode" value="singleTop"/>
   <preference name="BackgroundColor" value="0xffffffff"/>
