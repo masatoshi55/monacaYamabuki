@@ -20,3 +20,7 @@ new Vue({
   template: '<app></app>',
   components: { App }
 });
+document.addEventListener("deviceready", onDeviceReady, false);
+function onDeviceReady() {
+    window.open = cordova.InAppBrowser.open;
+}
